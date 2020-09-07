@@ -1,4 +1,8 @@
 runtime: java11
+
+manual_scaling:
+  instances: 1
+
 entrypoint: 'java -javaagent:sqreen.jar -jar springboot-helloworld-j11-0.0.1-SNAPSHOT.jar' 
 
 health_check:
