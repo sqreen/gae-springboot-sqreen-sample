@@ -1,4 +1,4 @@
-# GoogleAppEngine SpringBoot Sqreen Sample
+# GoogleAppEngine Standard - SpringBoot Sqreen Sample
 
 This sample shows how to deploy a Spring Boot application protected by Sqreen to Google App Engine stadndard.
 For simplicity and transparency, the example is based on the [sample](https://github.com/GoogleCloudPlatform/java-docs-samples/tree/master/appengine-java11/springboot-helloworld) from GoogleCloudPlatform.
